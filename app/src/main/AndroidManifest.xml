@@ -20,6 +20,5 @@
             </intent-filter>
         </activity>
     </application>
-    <meta-data android:name="FD_API_KEY" android:value="${googleMapApiKey}"/>
 
 </manifest>
